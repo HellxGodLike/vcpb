@@ -46,16 +46,16 @@ play_2: "Send me a video URL, not a playlist."
 play_3: "Download scheduled."
 
 # Player
-player_1: "Playing..."
-player_2: "Finished playing."
+player_1: "Music Playing ➡"
+player_2: "Done playing."
 
 # Playlist
 playlist_1: "There are no items in the custom playlist."
 playlist_2: "Starting to play the custom playlist..."
-playlist_3: "➕ Add to the custom playlist"
+playlist_3: "➕ Add to playlist"
 playlist_4: "Added to the custom playlist."
 playlist_5: "This item is already in the custom playlist."
-playlist_6: "➖ Remove from the custom playlist"
+playlist_6: "➖ Remove from playlist"
 playlist_7: "Removed from the custom playlist."
 playlist_8: "This item isn't in the custom playlist."
 playlist_9: "Nothing should be playing before playing the custom playlist."
